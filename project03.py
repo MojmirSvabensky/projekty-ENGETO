@@ -1,3 +1,11 @@
+"""
+projekt_3.py: třetí projekt do Engeto Online Python Akademie
+
+author: Mojmír Švábenský
+email: Mojmir1@seznam.cz
+discord: _bluecuracao
+"""
+
 import sys
 import requests
 import bs4
