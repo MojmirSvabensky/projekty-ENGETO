@@ -1,4 +1,4 @@
-# Elections scraper project 3 Engeto python academy
+# Project 3 Engeto python academy: Election scraper
 
 Description of the project:
 
